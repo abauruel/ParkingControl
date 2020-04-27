@@ -1,0 +1,36 @@
+hCarro{motorista=Motorista{nome='Ada', idade=60, pontos=3, habilitacao='1231'}, placa='123', cor=BRANCO}
+~Carro{motorista=Motorista{nome='Motorista 1', idade=60, pontos=3, habilitacao='-503217952631573515'}, placa='123', cor=PRETO}
+~Carro{motorista=Motorista{nome='Motorista 2', idade=60, pontos=3, habilitacao='5625742702854682803'}, placa='123', cor=PRETO}
+Carro{motorista=Motorista{nome='Motorista 3', idade=60, pontos=3, habilitacao='-5542334847440332640'}, placa='123', cor=PRETO}
+~Carro{motorista=Motorista{nome='Motorista 4', idade=60, pontos=3, habilitacao='2857291505384494967'}, placa='123', cor=PRETO}
+Carro{motorista=Motorista{nome='Motorista 5', idade=60, pontos=3, habilitacao='1460615758923293742'}, placa='123', cor=BRANCO}
+~Carro{motorista=Motorista{nome='Motorista 6', idade=60, pontos=3, habilitacao='-10989795014064684'}, placa='123', cor=BRANCO}
+~Carro{motorista=Motorista{nome='Motorista 7', idade=60, pontos=3, habilitacao='6006198189824713482'}, placa='123', cor=PRETO}
+Carro{motorista=Motorista{nome='Motorista 8', idade=60, pontos=3, habilitacao='-7577728329857689080'}, placa='123', cor=PRETO}
+~Carro{motorista=Motorista{nome='Motorista 9', idade=60, pontos=3, habilitacao='4634913669671018470'}, placa='123', cor=PRETO}
+hCarro{motorista=Motorista{nome='Ada', idade=60, pontos=3, habilitacao='1231'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 1', idade=20, pontos=3, habilitacao='-2107222742513594668'}, placa='123', cor=PRETO}
+~Carro{motorista=Motorista{nome='Motorista 2', idade=20, pontos=3, habilitacao='4324104740009879949'}, placa='123', cor=PRETO}
+~Carro{motorista=Motorista{nome='Motorista 3', idade=20, pontos=3, habilitacao='-18571459816249816'}, placa='123', cor=BRANCO}
+~Carro{motorista=Motorista{nome='Motorista 4', idade=20, pontos=3, habilitacao='7157212265230986310'}, placa='123', cor=PRETO}
+~Carro{motorista=Motorista{nome='Motorista 5', idade=20, pontos=3, habilitacao='911872749882532956'}, placa='123', cor=BRANCO}
+~Carro{motorista=Motorista{nome='Motorista 6', idade=20, pontos=3, habilitacao='3316673831569725686'}, placa='123', cor=PRETO}
+Carro{motorista=Motorista{nome='Motorista 7', idade=20, pontos=3, habilitacao='6660998664613239023'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 8', idade=20, pontos=3, habilitacao='3568849634376543321'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 9', idade=20, pontos=3, habilitacao='3720355452791617943'}, placa='123', cor=BRANCO}
+€Carro{motorista=Motorista{nome='Motorista 10', idade=20, pontos=3, habilitacao='-5322197660822352104'}, placa='123', cor=PRETO}
+10
+hCarro{motorista=Motorista{nome='Ada', idade=20, pontos=3, habilitacao='1231'}, placa='123', cor=BRANCO}
+1
+hCarro{motorista=Motorista{nome='Ada', idade=20, pontos=3, habilitacao='1231'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 1', idade=20, pontos=3, habilitacao='8449131145634268039'}, placa='123', cor=BRANCO}
+€Carro{motorista=Motorista{nome='Motorista 2', idade=20, pontos=3, habilitacao='-4646101860737360603'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 3', idade=20, pontos=3, habilitacao='-159443790779347965'}, placa='123', cor=BRANCO}
+~Carro{motorista=Motorista{nome='Motorista 4', idade=20, pontos=3, habilitacao='535476122923127165'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 5', idade=20, pontos=3, habilitacao='2310940163717461050'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 6', idade=20, pontos=3, habilitacao='1792123097721541581'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 7', idade=20, pontos=3, habilitacao='1532786834400417488'}, placa='123', cor=BRANCO}
+Carro{motorista=Motorista{nome='Motorista 8', idade=20, pontos=3, habilitacao='7317731048043389385'}, placa='123', cor=BRANCO}
+€Carro{motorista=Motorista{nome='Motorista 9', idade=20, pontos=3, habilitacao='-6270133541300685321'}, placa='123', cor=BRANCO}
+€Carro{motorista=Motorista{nome='Motorista 10', idade=20, pontos=3, habilitacao='4457141331799712786'}, placa='123', cor=BRANCO}
+10
